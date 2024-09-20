@@ -12,7 +12,6 @@ import {
   /*Testimonials*/
 } from './components';
 import styles from './style';
-import { app, db, auth } from './firebaseConfig'; // Import Firebase configuration
 
 const App = () => {
   return (
